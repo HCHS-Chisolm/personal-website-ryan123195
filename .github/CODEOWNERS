@@ -5,7 +5,9 @@
 # the repo. Unless a later match takes precedence,
 # @global-owner1 and @global-owner2 will be requested for
 # review when someone opens a pull request.
-* @HCHS-Chisolm/Reviewers
+# TODO Figure out using the team below.
+# * @HCHS-Chisolm/Reviewers
+* @mchisolm0
 
 # This is the owner for the /.github/ directory
 /.github/ @mchisolm0
