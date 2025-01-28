@@ -6,8 +6,8 @@
 # @global-owner1 and @global-owner2 will be requested for
 # review when someone opens a pull request.
 # TODO Figure out using the team below.
-# * @HCHS-Chisolm/Reviewers
-* @mchisolm0
+* @HCHS-Chisolm/Reviewers
+# * @mchisolm0
 
 # This is the owner for the /.github/ directory
 /.github/ @mchisolm0
